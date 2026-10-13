@@ -1,0 +1,2044 @@
+GENERAL QUESTIONS AND ANSWERS (500 ITEMS)
+Purpose: Simple knowledge data for teaching non-technical students how to build a chatbot.
+Format: Each item has a number, one Question (Q) and one Answer (A).
+All answers are stable, well-established facts.
+
+==================================================
+SECTION 1: PAKISTAN
+==================================================
+
+1.
+Q: What is the capital of Pakistan?
+A: Islamabad.
+
+2.
+Q: Who is known as the founder of Pakistan?
+A: Muhammad Ali Jinnah.
+
+3.
+Q: When did Pakistan gain independence?
+A: 14 August 1947.
+
+4.
+Q: What is the national language of Pakistan?
+A: Urdu.
+
+5.
+Q: What is the longest river in Pakistan?
+A: The Indus River.
+
+6.
+Q: What is the currency of Pakistan?
+A: The Pakistani Rupee.
+
+7.
+Q: Who is the national poet of Pakistan?
+A: Allama Muhammad Iqbal.
+
+8.
+Q: What is the highest mountain in Pakistan?
+A: K2, at about 8,611 metres.
+
+9.
+Q: Which is the largest city of Pakistan by population?
+A: Karachi.
+
+10.
+Q: Which is the largest province of Pakistan by area?
+A: Balochistan.
+
+11.
+Q: Which is the most populous province of Pakistan?
+A: Punjab.
+
+12.
+Q: How many provinces does Pakistan have?
+A: Four.
+
+13.
+Q: What are the four provinces of Pakistan?
+A: Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan.
+
+14.
+Q: What is the national animal of Pakistan?
+A: The markhor.
+
+15.
+Q: What is the national flower of Pakistan?
+A: Jasmine.
+
+16.
+Q: What is the national sport of Pakistan?
+A: Field hockey.
+
+17.
+Q: What is the national tree of Pakistan?
+A: The deodar.
+
+18.
+Q: What is the national bird of Pakistan?
+A: The chukar partridge.
+
+19.
+Q: What event does Pakistan Day on 23 March commemorate?
+A: The Lahore Resolution of 1940.
+
+20.
+Q: What is the capital of Punjab province?
+A: Lahore.
+
+21.
+Q: What is the capital of Sindh province?
+A: Karachi.
+
+22.
+Q: What is the capital of Khyber Pakhtunkhwa province?
+A: Peshawar.
+
+23.
+Q: What is the capital of Balochistan province?
+A: Quetta.
+
+24.
+Q: Which city is called the cultural capital of Pakistan?
+A: Lahore.
+
+25.
+Q: Who was the first Prime Minister of Pakistan?
+A: Liaquat Ali Khan.
+
+26.
+Q: Who was the first Governor-General of Pakistan?
+A: Muhammad Ali Jinnah.
+
+27.
+Q: In which year was the current constitution of Pakistan adopted?
+A: 1973.
+
+28.
+Q: What is the name of the national anthem of Pakistan?
+A: Qaumi Taranah.
+
+29.
+Q: Who wrote the lyrics of the national anthem of Pakistan?
+A: Hafeez Jalandhari.
+
+30.
+Q: Which country lies on the eastern border of Pakistan?
+A: India.
+
+31.
+Q: Which country does the Karakoram Highway connect Pakistan with?
+A: China.
+
+32.
+Q: Which sea lies to the south of Pakistan?
+A: The Arabian Sea.
+
+33.
+Q: Which desert lies in the southeast of Sindh province?
+A: The Thar Desert.
+
+34.
+Q: Which famous pass connects Pakistan and Afghanistan near Peshawar?
+A: The Khyber Pass.
+
+35.
+Q: What is the name of the mausoleum of Quaid-e-Azam in Karachi?
+A: Mazar-e-Quaid.
+
+36.
+Q: In which city is the Badshahi Mosque located?
+A: Lahore.
+
+37.
+Q: In which city is the Faisal Mosque located?
+A: Islamabad.
+
+38.
+Q: In which city is Minar-e-Pakistan located?
+A: Lahore.
+
+39.
+Q: In which province is the ancient city of Mohenjo-daro located?
+A: Sindh.
+
+40.
+Q: In which province is the ancient city of Harappa located?
+A: Punjab.
+
+41.
+Q: Which is the largest dam in Pakistan?
+A: The Tarbela Dam.
+
+42.
+Q: Which Pakistani girl won the Nobel Peace Prize in 2014?
+A: Malala Yousafzai.
+
+43.
+Q: Which Pakistani scientist won the Nobel Prize in Physics in 1979?
+A: Abdus Salam.
+
+44.
+Q: What are the two colours of the flag of Pakistan?
+A: Green and white.
+
+45.
+Q: What does the crescent on the flag of Pakistan symbolise?
+A: Progress.
+
+46.
+Q: What does the star on the flag of Pakistan symbolise?
+A: Light and knowledge.
+
+47.
+Q: Which river flows through the city of Lahore?
+A: The Ravi River.
+
+48.
+Q: In which year did Pakistan win the Cricket World Cup?
+A: 1992.
+
+49.
+Q: Who captained Pakistan to the 1992 Cricket World Cup victory?
+A: Imran Khan.
+
+50.
+Q: Who was the first woman Prime Minister of Pakistan?
+A: Benazir Bhutto.
+
+==================================================
+SECTION 2: WORLD GEOGRAPHY
+==================================================
+
+51.
+Q: How many continents are there?
+A: Seven.
+
+52.
+Q: Which is the largest continent by area?
+A: Asia.
+
+53.
+Q: Which is the largest ocean on Earth?
+A: The Pacific Ocean.
+
+54.
+Q: What is the highest mountain in the world above sea level?
+A: Mount Everest, at about 8,849 metres.
+
+55.
+Q: What is the capital of France?
+A: Paris.
+
+56.
+Q: What is the capital of Japan?
+A: Tokyo.
+
+57.
+Q: What is the capital of the United Kingdom?
+A: London.
+
+58.
+Q: What is the capital of Germany?
+A: Berlin.
+
+59.
+Q: What is the capital of Italy?
+A: Rome.
+
+60.
+Q: What is the capital of Spain?
+A: Madrid.
+
+61.
+Q: What is the capital of Portugal?
+A: Lisbon.
+
+62.
+Q: What is the capital of Russia?
+A: Moscow.
+
+63.
+Q: What is the capital of China?
+A: Beijing.
+
+64.
+Q: What is the capital of India?
+A: New Delhi.
+
+65.
+Q: What is the capital of Bangladesh?
+A: Dhaka.
+
+66.
+Q: What is the capital of Afghanistan?
+A: Kabul.
+
+67.
+Q: What is the capital of Iran?
+A: Tehran.
+
+68.
+Q: What is the capital of Iraq?
+A: Baghdad.
+
+69.
+Q: What is the capital of Saudi Arabia?
+A: Riyadh.
+
+70.
+Q: What is the capital of Turkey?
+A: Ankara.
+
+71.
+Q: What is the capital of Egypt?
+A: Cairo.
+
+72.
+Q: What is the capital of Canada?
+A: Ottawa.
+
+73.
+Q: What is the capital of the United States?
+A: Washington, D.C.
+
+74.
+Q: What is the capital of Australia?
+A: Canberra.
+
+75.
+Q: What is the capital of Brazil?
+A: Brasilia.
+
+76.
+Q: What is the capital of Argentina?
+A: Buenos Aires.
+
+77.
+Q: What is the capital of Mexico?
+A: Mexico City.
+
+78.
+Q: What is the capital of Kenya?
+A: Nairobi.
+
+79.
+Q: What is the capital of Nigeria?
+A: Abuja.
+
+80.
+Q: What is the capital of South Korea?
+A: Seoul.
+
+81.
+Q: What is the capital of Thailand?
+A: Bangkok.
+
+82.
+Q: What is the capital of Malaysia?
+A: Kuala Lumpur.
+
+83.
+Q: What is the capital of Nepal?
+A: Kathmandu.
+
+84.
+Q: What is the capital of Greece?
+A: Athens.
+
+85.
+Q: What is the capital of the Netherlands?
+A: Amsterdam.
+
+86.
+Q: What is the capital of Sweden?
+A: Stockholm.
+
+87.
+Q: What is the capital of Norway?
+A: Oslo.
+
+88.
+Q: What is the capital of Switzerland?
+A: Bern.
+
+89.
+Q: What is the capital of Austria?
+A: Vienna.
+
+90.
+Q: What is the capital of the United Arab Emirates?
+A: Abu Dhabi.
+
+91.
+Q: Which river is traditionally considered the longest in the world?
+A: The Nile.
+
+92.
+Q: Which river carries the largest volume of water in the world?
+A: The Amazon River.
+
+93.
+Q: Which is the largest country in the world by area?
+A: Russia.
+
+94.
+Q: Which is the smallest country in the world by area?
+A: Vatican City.
+
+95.
+Q: Which country has the largest population in the world?
+A: India.
+
+96.
+Q: Which is the largest hot desert in the world?
+A: The Sahara Desert.
+
+97.
+Q: Which is the longest mountain range on land?
+A: The Andes.
+
+98.
+Q: Which is the largest lake in Africa?
+A: Lake Victoria.
+
+99.
+Q: What is the deepest known part of the world's oceans called?
+A: The Mariana Trench.
+
+100.
+Q: Which is the smallest ocean on Earth?
+A: The Arctic Ocean.
+
+101.
+Q: Which is the largest island in the world?
+A: Greenland.
+
+102.
+Q: Which is the coldest continent on Earth?
+A: Antarctica.
+
+103.
+Q: Which is the smallest continent by area?
+A: Australia (Oceania).
+
+104.
+Q: Between which two countries do the Niagara Falls lie?
+A: Canada and the United States.
+
+105.
+Q: Which is the highest waterfall in the world?
+A: Angel Falls in Venezuela.
+
+106.
+Q: Which sea is the lowest point on the land surface of Earth?
+A: The Dead Sea.
+
+107.
+Q: Which is the largest lake in the world by area?
+A: The Caspian Sea.
+
+108.
+Q: Which strait separates Europe from Africa?
+A: The Strait of Gibraltar.
+
+109.
+Q: Which canal connects the Mediterranean Sea with the Red Sea?
+A: The Suez Canal.
+
+110.
+Q: Which canal connects the Atlantic Ocean with the Pacific Ocean?
+A: The Panama Canal.
+
+111.
+Q: What is the imaginary line that divides Earth into the Northern and Southern Hemispheres?
+A: The Equator.
+
+112.
+Q: Through which city does the Prime Meridian pass?
+A: Greenwich, London.
+
+113.
+Q: How many oceans are there on Earth?
+A: Five.
+
+114.
+Q: Which country is known as the Land of the Rising Sun?
+A: Japan.
+
+115.
+Q: Which country is known as the Land of the Midnight Sun?
+A: Norway.
+
+116.
+Q: Which country is shaped like a boot?
+A: Italy.
+
+117.
+Q: Which country is home to the Great Barrier Reef?
+A: Australia.
+
+118.
+Q: In which country is the Great Wall located?
+A: China.
+
+119.
+Q: In which city is the Taj Mahal located?
+A: Agra, India.
+
+120.
+Q: In which city is the Eiffel Tower located?
+A: Paris.
+
+121.
+Q: In which city is the Statue of Liberty located?
+A: New York City.
+
+122.
+Q: In which city is Big Ben located?
+A: London.
+
+123.
+Q: In which city is the Colosseum located?
+A: Rome.
+
+124.
+Q: In which country are the Pyramids of Giza located?
+A: Egypt.
+
+125.
+Q: In which country is the Leaning Tower of Pisa located?
+A: Italy.
+
+126.
+Q: In which country is Machu Picchu located?
+A: Peru.
+
+127.
+Q: In which country is the Sydney Opera House located?
+A: Australia.
+
+128.
+Q: In which city is the Burj Khalifa located?
+A: Dubai.
+
+129.
+Q: Which is the highest mountain in Africa?
+A: Mount Kilimanjaro.
+
+130.
+Q: Which river flows through London?
+A: The River Thames.
+
+131.
+Q: Which river flows through Paris?
+A: The River Seine.
+
+132.
+Q: Which river flows through Cairo?
+A: The Nile.
+
+133.
+Q: Which sacred river of India flows into the Bay of Bengal?
+A: The Ganges.
+
+134.
+Q: What is the currency of Japan?
+A: The Yen.
+
+135.
+Q: What is the currency of the United Kingdom?
+A: The Pound Sterling.
+
+136.
+Q: What is the currency of the United States?
+A: The US Dollar.
+
+137.
+Q: What is the currency of India?
+A: The Indian Rupee.
+
+138.
+Q: What is the currency of Saudi Arabia?
+A: The Saudi Riyal.
+
+139.
+Q: What is the currency of Turkey?
+A: The Turkish Lira.
+
+140.
+Q: How many states are there in the United States?
+A: Fifty.
+
+141.
+Q: What is the main language spoken in Brazil?
+A: Portuguese.
+
+142.
+Q: What is the main language spoken in Iran?
+A: Persian (Farsi).
+
+==================================================
+SECTION 3: SPACE AND SCIENCE
+==================================================
+
+143.
+Q: Which planet is closest to the Sun?
+A: Mercury.
+
+144.
+Q: Which planet is known as the Red Planet?
+A: Mars.
+
+145.
+Q: What is the largest planet in our solar system?
+A: Jupiter.
+
+146.
+Q: How many planets are in our solar system?
+A: Eight.
+
+147.
+Q: What is the closest star to Earth?
+A: The Sun.
+
+148.
+Q: Which gas do humans need to breathe to stay alive?
+A: Oxygen.
+
+149.
+Q: Which gas do plants take in from the air for photosynthesis?
+A: Carbon dioxide.
+
+150.
+Q: What is the chemical formula of water?
+A: H2O (two hydrogen atoms and one oxygen atom).
+
+151.
+Q: At what temperature does water boil at sea level?
+A: 100 degrees Celsius (212 degrees Fahrenheit).
+
+152.
+Q: At what temperature does water freeze?
+A: 0 degrees Celsius (32 degrees Fahrenheit).
+
+153.
+Q: Which is the hottest planet in our solar system?
+A: Venus.
+
+154.
+Q: Which planet is famous for its bright rings?
+A: Saturn.
+
+155.
+Q: Which planet is the farthest from the Sun?
+A: Neptune.
+
+156.
+Q: What is the name of the natural satellite of Earth?
+A: The Moon.
+
+157.
+Q: Who was the first person to walk on the Moon?
+A: Neil Armstrong, in 1969.
+
+158.
+Q: Who was the first human to travel into space?
+A: Yuri Gagarin, in 1961.
+
+159.
+Q: What was the first artificial satellite launched into space?
+A: Sputnik 1, in 1957.
+
+160.
+Q: In which galaxy is our solar system located?
+A: The Milky Way.
+
+161.
+Q: How long does sunlight take to reach Earth?
+A: About 8 minutes and 20 seconds.
+
+162.
+Q: What is the approximate speed of light?
+A: About 299,792 kilometres per second.
+
+163.
+Q: How long does the Earth take to orbit the Sun?
+A: About 365 and a quarter days.
+
+164.
+Q: What mainly causes the ocean tides on Earth?
+A: The gravitational pull of the Moon.
+
+165.
+Q: What is a solar eclipse?
+A: When the Moon passes between the Sun and the Earth and blocks sunlight.
+
+166.
+Q: What is a lunar eclipse?
+A: When the Earth passes between the Sun and the Moon.
+
+167.
+Q: Which planet has a giant storm called the Great Red Spot?
+A: Jupiter.
+
+168.
+Q: Which planet is home to Olympus Mons, the largest volcano in the solar system?
+A: Mars.
+
+169.
+Q: Which object was reclassified from a planet to a dwarf planet in 2006?
+A: Pluto.
+
+170.
+Q: What is the chemical symbol of gold?
+A: Au.
+
+171.
+Q: What is the chemical symbol of silver?
+A: Ag.
+
+172.
+Q: What is the chemical symbol of iron?
+A: Fe.
+
+173.
+Q: What is the chemical symbol of sodium?
+A: Na.
+
+174.
+Q: What is the lightest chemical element?
+A: Hydrogen.
+
+175.
+Q: What is the most abundant gas in the Earth's atmosphere?
+A: Nitrogen, at about 78 percent.
+
+176.
+Q: Who created the periodic table of elements?
+A: Dmitri Mendeleev.
+
+177.
+Q: What is the SI unit of force?
+A: The newton.
+
+178.
+Q: What is the SI unit of electric current?
+A: The ampere.
+
+179.
+Q: What is the SI unit of energy?
+A: The joule.
+
+180.
+Q: What is the SI unit of power?
+A: The watt.
+
+181.
+Q: What is the SI unit of frequency?
+A: The hertz.
+
+182.
+Q: Who formulated the law of universal gravitation?
+A: Isaac Newton.
+
+183.
+Q: Who developed the theory of relativity?
+A: Albert Einstein.
+
+184.
+Q: Who discovered penicillin?
+A: Alexander Fleming, in 1928.
+
+185.
+Q: Who proposed the theory of evolution by natural selection?
+A: Charles Darwin.
+
+186.
+Q: What is the pH value of pure water?
+A: 7.
+
+187.
+Q: What is the hardest natural substance on Earth?
+A: Diamond.
+
+188.
+Q: Which metal is liquid at room temperature?
+A: Mercury.
+
+189.
+Q: What is the process by which plants make their own food?
+A: Photosynthesis.
+
+190.
+Q: What is the green pigment in plants called?
+A: Chlorophyll.
+
+191.
+Q: What are the three common states of matter?
+A: Solid, liquid and gas.
+
+192.
+Q: What is the approximate speed of sound in air?
+A: About 343 metres per second.
+
+193.
+Q: What is the approximate acceleration due to gravity on Earth?
+A: About 9.8 metres per second squared.
+
+194.
+Q: What is the centre of an atom called?
+A: The nucleus.
+
+195.
+Q: Which particles are found in the nucleus of an atom?
+A: Protons and neutrons.
+
+196.
+Q: Which subatomic particle has a negative electric charge?
+A: The electron.
+
+197.
+Q: Which type of energy is stored in food?
+A: Chemical energy.
+
+198.
+Q: Which branch of science studies living things?
+A: Biology.
+
+199.
+Q: Which branch of science studies matter and energy?
+A: Physics.
+
+200.
+Q: Which branch of science studies rocks and the structure of the Earth?
+A: Geology.
+
+201.
+Q: Which branch of science studies weather and the atmosphere?
+A: Meteorology.
+
+202.
+Q: Which instrument is used to measure temperature?
+A: A thermometer.
+
+203.
+Q: Which instrument is used to measure air pressure?
+A: A barometer.
+
+204.
+Q: In which layer of the atmosphere do we live?
+A: The troposphere.
+
+205.
+Q: Which layer of the atmosphere protects us from harmful ultraviolet rays?
+A: The ozone layer.
+
+206.
+Q: Which greenhouse gas from burning fossil fuels is the main driver of climate change?
+A: Carbon dioxide.
+
+207.
+Q: Which two metals mainly make up the Earth's core?
+A: Iron and nickel.
+
+208.
+Q: How many colours are there in a rainbow?
+A: Seven.
+
+209.
+Q: What are the three primary colours of light?
+A: Red, green and blue.
+
+210.
+Q: Which planet is tilted on its side as it orbits the Sun?
+A: Uranus.
+
+==================================================
+SECTION 4: TIME AND MATHEMATICS
+==================================================
+
+211.
+Q: How many hours are there in one day?
+A: 24 hours.
+
+212.
+Q: How many minutes are there in one hour?
+A: 60 minutes.
+
+213.
+Q: How many days are there in a leap year?
+A: 366 days.
+
+214.
+Q: What is 12 multiplied by 12?
+A: 144.
+
+215.
+Q: What is the square root of 81?
+A: 9.
+
+216.
+Q: How many days are there in a week?
+A: Seven.
+
+217.
+Q: How many months are there in a year?
+A: Twelve.
+
+218.
+Q: How many days are there in a normal year?
+A: 365 days.
+
+219.
+Q: How many seconds are there in one minute?
+A: 60 seconds.
+
+220.
+Q: How many seconds are there in one hour?
+A: 3,600 seconds.
+
+221.
+Q: How many weeks are there in a year?
+A: 52 weeks.
+
+222.
+Q: How many years are there in a decade?
+A: Ten years.
+
+223.
+Q: How many years are there in a century?
+A: 100 years.
+
+224.
+Q: Which month has only 28 days in a common year?
+A: February.
+
+225.
+Q: How often does a leap year occur?
+A: Every four years.
+
+226.
+Q: What is the Roman numeral for the number 10?
+A: X.
+
+227.
+Q: What is the Roman numeral for the number 50?
+A: L.
+
+228.
+Q: What is the Roman numeral for the number 100?
+A: C.
+
+229.
+Q: What is the Roman numeral for the number 1000?
+A: M.
+
+230.
+Q: What is the sum of the angles in a triangle?
+A: 180 degrees.
+
+231.
+Q: What is the sum of the interior angles of a quadrilateral?
+A: 360 degrees.
+
+232.
+Q: What is the approximate value of pi?
+A: 3.14159.
+
+233.
+Q: How many sides does a hexagon have?
+A: Six.
+
+234.
+Q: How many sides does an octagon have?
+A: Eight.
+
+235.
+Q: How many sides does a pentagon have?
+A: Five.
+
+236.
+Q: What is the square root of 144?
+A: 12.
+
+237.
+Q: What is the square root of 100?
+A: 10.
+
+238.
+Q: What is 15 multiplied by 15?
+A: 225.
+
+239.
+Q: What is seven multiplied by eight?
+A: 56.
+
+240.
+Q: What is 25 percent of 200?
+A: 50.
+
+241.
+Q: What is 100 divided by 4?
+A: 25.
+
+242.
+Q: What is 35 plus 20?
+A: 55.
+
+243.
+Q: What is 50 minus 18?
+A: 32.
+
+244.
+Q: What is the cube of three?
+A: 27.
+
+245.
+Q: How many degrees are there in a full circle?
+A: 360 degrees.
+
+246.
+Q: How many degrees are there in a right angle?
+A: 90 degrees.
+
+247.
+Q: What is the smallest prime number?
+A: Two.
+
+248.
+Q: What is the formula for the area of a circle?
+A: Pi multiplied by the radius squared.
+
+249.
+Q: What is the formula for the area of a rectangle?
+A: Length multiplied by width.
+
+250.
+Q: How many millimetres are there in a centimetre?
+A: Ten.
+
+251.
+Q: How many centimetres are there in a metre?
+A: 100.
+
+252.
+Q: How many metres are there in a kilometre?
+A: 1,000.
+
+253.
+Q: How many grams are there in a kilogram?
+A: 1,000.
+
+254.
+Q: How many millilitres are there in a litre?
+A: 1,000.
+
+255.
+Q: How many inches are there in a foot?
+A: Twelve.
+
+256.
+Q: What is the name of a shape with three sides?
+A: A triangle.
+
+==================================================
+SECTION 5: ANIMALS AND THE HUMAN BODY
+==================================================
+
+257.
+Q: What is the largest mammal in the world?
+A: The blue whale.
+
+258.
+Q: What is the fastest land animal?
+A: The cheetah.
+
+259.
+Q: How many bones are there in an adult human body?
+A: 206 bones.
+
+260.
+Q: Which organ pumps blood around the human body?
+A: The heart.
+
+261.
+Q: What is the largest organ of the human body?
+A: The skin.
+
+262.
+Q: What is the largest bird in the world?
+A: The ostrich.
+
+263.
+Q: What is the tallest animal in the world?
+A: The giraffe.
+
+264.
+Q: What is the largest land animal?
+A: The African elephant.
+
+265.
+Q: Which bird is the fastest in a dive?
+A: The peregrine falcon.
+
+266.
+Q: Which animal is often called the king of the jungle?
+A: The lion.
+
+267.
+Q: Which mammal lays eggs?
+A: The platypus.
+
+268.
+Q: Which is the only mammal that can truly fly?
+A: The bat.
+
+269.
+Q: Which is the largest living reptile?
+A: The saltwater crocodile.
+
+270.
+Q: Which animal is known for moving very slowly in trees?
+A: The sloth.
+
+271.
+Q: Which animal has black and white stripes?
+A: The zebra.
+
+272.
+Q: Which animal is known as the ship of the desert?
+A: The camel.
+
+273.
+Q: What is a baby kangaroo called?
+A: A joey.
+
+274.
+Q: What is a baby dog called?
+A: A puppy.
+
+275.
+Q: What is a baby cat called?
+A: A kitten.
+
+276.
+Q: What is a baby cow called?
+A: A calf.
+
+277.
+Q: What is a baby sheep called?
+A: A lamb.
+
+278.
+Q: What is a group of lions called?
+A: A pride.
+
+279.
+Q: What is a group of fish called?
+A: A school.
+
+280.
+Q: Which insect makes honey?
+A: The bee.
+
+281.
+Q: How many legs does a spider have?
+A: Eight.
+
+282.
+Q: How many legs does an insect have?
+A: Six.
+
+283.
+Q: What does a caterpillar turn into?
+A: A butterfly or a moth.
+
+284.
+Q: What colour is human blood?
+A: Red.
+
+285.
+Q: How many chambers does the human heart have?
+A: Four.
+
+286.
+Q: How many teeth does a normal adult human have?
+A: 32 teeth.
+
+287.
+Q: Which organs do humans use for breathing?
+A: The lungs.
+
+288.
+Q: Which organ controls the human body and thinking?
+A: The brain.
+
+289.
+Q: What is the longest bone in the human body?
+A: The femur (thigh bone).
+
+290.
+Q: What is the smallest bone in the human body?
+A: The stapes, in the middle ear.
+
+291.
+Q: Which blood type is known as the universal donor?
+A: O negative.
+
+292.
+Q: Which blood cells carry oxygen around the body?
+A: Red blood cells.
+
+293.
+Q: Which vitamin does the body make when skin is exposed to sunlight?
+A: Vitamin D.
+
+294.
+Q: Which vitamin prevents the disease called scurvy?
+A: Vitamin C.
+
+295.
+Q: What are the five senses of the human body?
+A: Sight, hearing, smell, taste and touch.
+
+296.
+Q: Which organs filter blood and produce urine?
+A: The kidneys.
+
+297.
+Q: How many chromosomes are there in a normal human cell?
+A: 46 chromosomes.
+
+298.
+Q: What is the normal human body temperature?
+A: About 37 degrees Celsius (98.6 degrees Fahrenheit).
+
+299.
+Q: Where does the digestion of food begin?
+A: In the mouth.
+
+300.
+Q: In which part of the body is most food absorbed?
+A: The small intestine.
+
+301.
+Q: Which organ produces insulin?
+A: The pancreas.
+
+302.
+Q: Which is the largest internal organ of the human body?
+A: The liver.
+
+303.
+Q: How many ribs does a normal human have?
+A: 24 ribs (12 pairs).
+
+304.
+Q: Which animal breathes through gills?
+A: Fish.
+
+305.
+Q: Which is the largest living cat species?
+A: The tiger.
+
+306.
+Q: Which flightless bird is the national bird of New Zealand?
+A: The kiwi.
+
+307.
+Q: Which animal is called man's best friend?
+A: The dog.
+
+==================================================
+SECTION 6: HISTORY AND LITERATURE
+==================================================
+
+308.
+Q: Who wrote the play "Romeo and Juliet"?
+A: William Shakespeare.
+
+309.
+Q: Who is credited with inventing the telephone?
+A: Alexander Graham Bell, who received his patent in 1876.
+
+310.
+Q: Who was the first President of the United States?
+A: George Washington.
+
+311.
+Q: Who wrote the play "Hamlet"?
+A: William Shakespeare.
+
+312.
+Q: Who wrote the epic poem "Paradise Lost"?
+A: John Milton.
+
+313.
+Q: Who wrote the novel "Pride and Prejudice"?
+A: Jane Austen.
+
+314.
+Q: Who wrote the novel "A Tale of Two Cities"?
+A: Charles Dickens.
+
+315.
+Q: Who wrote the novel "Nineteen Eighty-Four"?
+A: George Orwell.
+
+316.
+Q: Who is the ancient Greek poet of the "Odyssey"?
+A: Homer.
+
+317.
+Q: Who wrote the "Divine Comedy"?
+A: Dante Alighieri.
+
+318.
+Q: Who wrote the novel "Don Quixote"?
+A: Miguel de Cervantes.
+
+319.
+Q: Who wrote the Persian epic "Shahnameh"?
+A: Ferdowsi.
+
+320.
+Q: Who wrote the Urdu poetry book "Bang-e-Dra"?
+A: Allama Muhammad Iqbal.
+
+321.
+Q: Who wrote the "Harry Potter" books?
+A: J. K. Rowling.
+
+322.
+Q: Who wrote "The Lord of the Rings"?
+A: J. R. R. Tolkien.
+
+323.
+Q: Who painted the "Mona Lisa"?
+A: Leonardo da Vinci.
+
+324.
+Q: Who painted "The Starry Night"?
+A: Vincent van Gogh.
+
+325.
+Q: Who painted the ceiling of the Sistine Chapel?
+A: Michelangelo.
+
+326.
+Q: Who composed the Fifth Symphony in C minor?
+A: Ludwig van Beethoven.
+
+327.
+Q: Who is credited with reaching the Americas in 1492?
+A: Christopher Columbus.
+
+328.
+Q: Who found the sea route from Europe to India in 1498?
+A: Vasco da Gama.
+
+329.
+Q: In which year did the First World War begin?
+A: 1914.
+
+330.
+Q: In which year did the Second World War begin?
+A: 1939.
+
+331.
+Q: In which year did the Second World War end?
+A: 1945.
+
+332.
+Q: In which year did the French Revolution begin?
+A: 1789.
+
+333.
+Q: In which year did the United States declare independence?
+A: 1776.
+
+334.
+Q: In which year did the Berlin Wall fall?
+A: 1989.
+
+335.
+Q: Who was the first Prime Minister of India?
+A: Jawaharlal Nehru.
+
+336.
+Q: Who led the nonviolent independence movement in India?
+A: Mahatma Gandhi.
+
+337.
+Q: Who became the first democratically elected president of South Africa in 1994?
+A: Nelson Mandela.
+
+338.
+Q: Who was the British Prime Minister during most of the Second World War?
+A: Winston Churchill.
+
+339.
+Q: Who was the American president during the Civil War?
+A: Abraham Lincoln.
+
+340.
+Q: Who built the Taj Mahal?
+A: The Mughal emperor Shah Jahan.
+
+341.
+Q: Who founded the Mughal Empire?
+A: Babur.
+
+342.
+Q: Which Mughal emperor built the Badshahi Mosque in Lahore?
+A: Aurangzeb.
+
+343.
+Q: Who is the last Prophet of Islam?
+A: Prophet Muhammad (peace be upon him).
+
+344.
+Q: Which is the holiest city in Islam?
+A: Makkah.
+
+345.
+Q: What is the holy book of Muslims?
+A: The Quran.
+
+346.
+Q: Which ancient civilization built the pyramids of Giza?
+A: The ancient Egyptians.
+
+347.
+Q: Who was the teacher of Alexander the Great?
+A: Aristotle.
+
+348.
+Q: In which country did the ancient Olympic Games begin?
+A: Greece.
+
+349.
+Q: Who was the first emperor of Rome?
+A: Augustus.
+
+350.
+Q: At which battle was Napoleon finally defeated in 1815?
+A: The Battle of Waterloo.
+
+351.
+Q: In which year did the Titanic sink?
+A: 1912.
+
+352.
+Q: Who invented the movable-type printing press in Europe?
+A: Johannes Gutenberg.
+
+353.
+Q: Who wrote the political book "The Prince"?
+A: Niccolo Machiavelli.
+
+354.
+Q: Which civilization developed in the Indus Valley thousands of years ago?
+A: The Indus Valley Civilization.
+
+355.
+Q: Who was the first Caliph of Islam?
+A: Abu Bakr (may Allah be pleased with him).
+
+356.
+Q: Who was the founder of the Ottoman Empire?
+A: Osman I.
+
+357.
+Q: Which wall divided the city of Berlin during the Cold War?
+A: The Berlin Wall.
+
+==================================================
+SECTION 7: COMPUTERS AND TECHNOLOGY
+==================================================
+
+358.
+Q: What does CPU stand for?
+A: Central Processing Unit.
+
+359.
+Q: What does AI stand for?
+A: Artificial Intelligence.
+
+360.
+Q: What is a chatbot?
+A: A chatbot is a computer program that simulates a conversation with people through text or voice.
+
+361.
+Q: What does WWW stand for?
+A: World Wide Web.
+
+362.
+Q: What does HTML stand for?
+A: HyperText Markup Language.
+
+363.
+Q: What does RAM stand for?
+A: Random Access Memory.
+
+364.
+Q: What does ROM stand for?
+A: Read-Only Memory.
+
+365.
+Q: What does GPU stand for?
+A: Graphics Processing Unit.
+
+366.
+Q: What does USB stand for?
+A: Universal Serial Bus.
+
+367.
+Q: What does URL stand for?
+A: Uniform Resource Locator.
+
+368.
+Q: What does HTTP stand for?
+A: HyperText Transfer Protocol.
+
+369.
+Q: What does PDF stand for?
+A: Portable Document Format.
+
+370.
+Q: What does SQL stand for?
+A: Structured Query Language.
+
+371.
+Q: What does LAN stand for?
+A: Local Area Network.
+
+372.
+Q: What does CSS stand for?
+A: Cascading Style Sheets.
+
+373.
+Q: What does ML stand for in computing?
+A: Machine Learning.
+
+374.
+Q: What does NLP stand for?
+A: Natural Language Processing.
+
+375.
+Q: What does OS stand for in computing?
+A: Operating System.
+
+376.
+Q: Who founded Microsoft?
+A: Bill Gates and Paul Allen.
+
+377.
+Q: Who founded Apple?
+A: Steve Jobs, Steve Wozniak and Ronald Wayne.
+
+378.
+Q: Who founded Google?
+A: Larry Page and Sergey Brin.
+
+379.
+Q: Who created Facebook?
+A: Mark Zuckerberg.
+
+380.
+Q: Who is called the father of the computer?
+A: Charles Babbage.
+
+381.
+Q: Who invented the World Wide Web?
+A: Tim Berners-Lee.
+
+382.
+Q: Who created the Python programming language?
+A: Guido van Rossum.
+
+383.
+Q: Who created the Linux kernel?
+A: Linus Torvalds.
+
+384.
+Q: What is the smallest unit of data in a computer?
+A: A bit.
+
+385.
+Q: How many bits are there in one byte?
+A: Eight.
+
+386.
+Q: Which digits are used in the binary number system?
+A: 0 and 1.
+
+387.
+Q: Which part of a computer is called its brain?
+A: The CPU.
+
+388.
+Q: Which device is used to type text into a computer?
+A: The keyboard.
+
+389.
+Q: Which device displays the output of a computer on a screen?
+A: The monitor.
+
+390.
+Q: Which device is used to move the pointer on a computer screen?
+A: The mouse.
+
+391.
+Q: Which is a popular web browser developed by Google?
+A: Google Chrome.
+
+392.
+Q: What is a search engine?
+A: A website that helps people find information on the internet, such as Google.
+
+393.
+Q: What is an algorithm?
+A: A step-by-step set of instructions used to solve a problem.
+
+394.
+Q: What is a database?
+A: An organized collection of data that is stored and accessed electronically.
+
+395.
+Q: What is the internet?
+A: A global network of connected computers that share information.
+
+396.
+Q: What is software?
+A: The programs and instructions that tell a computer what to do.
+
+397.
+Q: What is hardware?
+A: The physical parts of a computer, such as the keyboard and monitor.
+
+398.
+Q: What is email?
+A: Electronic mail, a way of sending messages over the internet.
+
+399.
+Q: What is cloud computing?
+A: Using computing services such as storage and servers over the internet.
+
+400.
+Q: What is phishing?
+A: A fake message or website designed to trick people into giving away private information.
+
+401.
+Q: What is a firewall?
+A: A security system that monitors and controls network traffic.
+
+402.
+Q: What is an IP address?
+A: A unique number that identifies a device on a network.
+
+403.
+Q: What file extension is used for Python programs?
+A: .py
+
+404.
+Q: What is HTML used for?
+A: Creating the structure of web pages.
+
+==================================================
+SECTION 8: SPORTS, RELIGION AND ORGANIZATIONS
+==================================================
+
+405.
+Q: How many players are there in a cricket team on the field?
+A: Eleven.
+
+406.
+Q: How many players are there in a football team on the field?
+A: Eleven.
+
+407.
+Q: How many players are there in a basketball team on the court?
+A: Five.
+
+408.
+Q: How many players are there in a volleyball team on the court?
+A: Six.
+
+409.
+Q: How often are the Olympic Games held?
+A: Every four years.
+
+410.
+Q: In which city were the first modern Olympic Games held in 1896?
+A: Athens.
+
+411.
+Q: How often is the FIFA World Cup held?
+A: Every four years.
+
+412.
+Q: Which country hosted and won the first FIFA World Cup in 1930?
+A: Uruguay.
+
+413.
+Q: Which country won the FIFA World Cup in 2022?
+A: Argentina.
+
+414.
+Q: How many stumps are there in a cricket wicket?
+A: Three.
+
+415.
+Q: How many balls are there in one over of cricket?
+A: Six.
+
+416.
+Q: How many overs does each team bat in a T20 cricket match?
+A: 20 overs.
+
+417.
+Q: Which country won the first T20 World Cup in 2007?
+A: India.
+
+418.
+Q: Which country won the 2017 ICC Champions Trophy?
+A: Pakistan.
+
+419.
+Q: Which are the four Grand Slam tennis tournaments?
+A: The Australian Open, French Open, Wimbledon and US Open.
+
+420.
+Q: In which city is the Wimbledon tennis tournament held?
+A: London.
+
+421.
+Q: How many rings are there in the Olympic symbol?
+A: Five.
+
+422.
+Q: How many pieces does each player have at the start of a chess game?
+A: 16 pieces.
+
+423.
+Q: How many squares are there on a chessboard?
+A: 64 squares.
+
+424.
+Q: Which Pakistani squash player won the British Open ten times in a row?
+A: Jahangir Khan.
+
+425.
+Q: How many pillars of Islam are there?
+A: Five.
+
+426.
+Q: How many daily prayers are obligatory for Muslims?
+A: Five.
+
+427.
+Q: Which is the ninth month of the Islamic calendar?
+A: Ramadan.
+
+428.
+Q: Which festival marks the end of Ramadan?
+A: Eid-ul-Fitr.
+
+429.
+Q: Which festival commemorates the sacrifice of Prophet Ibrahim?
+A: Eid-ul-Adha.
+
+430.
+Q: In which language was the Quran revealed?
+A: Arabic.
+
+431.
+Q: How many surahs are there in the Quran?
+A: 114.
+
+432.
+Q: Towards which place do Muslims face when they pray?
+A: The Kaaba in Makkah.
+
+433.
+Q: In which city is the Hajj pilgrimage performed?
+A: Makkah.
+
+434.
+Q: On which date is Christmas celebrated?
+A: 25 December.
+
+435.
+Q: Which festival is known as the festival of lights in India?
+A: Diwali.
+
+436.
+Q: What is the holy book of Christians?
+A: The Bible.
+
+437.
+Q: What is the holy book of Sikhs?
+A: The Guru Granth Sahib.
+
+438.
+Q: Which is the most widely spoken native language in the world?
+A: Mandarin Chinese.
+
+439.
+Q: Who founded the Nobel Prize?
+A: Alfred Nobel.
+
+440.
+Q: Where is the headquarters of the United Nations?
+A: New York City.
+
+441.
+Q: In which year was the United Nations founded?
+A: 1945.
+
+442.
+Q: What does WHO stand for?
+A: World Health Organization.
+
+443.
+Q: What does UNESCO stand for?
+A: United Nations Educational, Scientific and Cultural Organization.
+
+444.
+Q: How many member states does the United Nations have?
+A: 193.
+
+445.
+Q: Which sport is played at Lord's Cricket Ground in London?
+A: Cricket.
+
+446.
+Q: Which sport uses the terms love, deuce and set?
+A: Tennis.
+
+447.
+Q: Which sport is played with a shuttlecock?
+A: Badminton.
+
+448.
+Q: Which country is famous for inventing the sport of football in its modern form?
+A: England.
+
+449.
+Q: Which martial art originated in Japan and means empty hand?
+A: Karate.
+
+450.
+Q: Which country hosted the 2016 Summer Olympics?
+A: Brazil.
+
+451.
+Q: Which country hosted the 2008 Summer Olympics?
+A: China.
+
+452.
+Q: In which sport is the Ashes series played?
+A: Cricket.
+
+==================================================
+SECTION 9: INVENTIONS AND EVERYDAY KNOWLEDGE
+==================================================
+
+453.
+Q: Who is credited with inventing the practical electric light bulb?
+A: Thomas Edison.
+
+454.
+Q: Who made the first powered aeroplane flight in 1903?
+A: The Wright brothers, Orville and Wilbur Wright.
+
+455.
+Q: Who is credited with developing the practical radio?
+A: Guglielmo Marconi.
+
+456.
+Q: Who demonstrated the first working television system in 1926?
+A: John Logie Baird.
+
+457.
+Q: Who used a telescope to discover four moons of Jupiter?
+A: Galileo Galilei.
+
+458.
+Q: Who invented dynamite?
+A: Alfred Nobel.
+
+459.
+Q: Which country is credited with inventing paper?
+A: China.
+
+460.
+Q: Who developed the first successful smallpox vaccine?
+A: Edward Jenner.
+
+461.
+Q: Who developed the first successful polio vaccine?
+A: Jonas Salk.
+
+462.
+Q: Which colour is made by mixing red and blue?
+A: Purple.
+
+463.
+Q: Which colour is made by mixing blue and yellow?
+A: Green.
+
+464.
+Q: Which colour is made by mixing red and yellow?
+A: Orange.
+
+465.
+Q: Which day comes after Friday?
+A: Saturday.
+
+466.
+Q: Which month begins the calendar year?
+A: January.
+
+467.
+Q: Which month ends the calendar year?
+A: December.
+
+468.
+Q: Which month comes after June?
+A: July.
+
+469.
+Q: How many seasons are there in a year?
+A: Four.
+
+470.
+Q: Which season of the year is the hottest?
+A: Summer.
+
+471.
+Q: Which meal is eaten in the morning?
+A: Breakfast.
+
+472.
+Q: Which fruit is said to keep the doctor away?
+A: The apple.
+
+473.
+Q: What is the main ingredient of bread?
+A: Flour.
+
+474.
+Q: In which country did pizza originate?
+A: Italy.
+
+475.
+Q: In which country did sushi originate?
+A: Japan.
+
+476.
+Q: Which drink is made from the leaves of the Camellia sinensis plant?
+A: Tea.
+
+477.
+Q: Which nutrient helps the body build and repair muscles?
+A: Protein.
+
+478.
+Q: Which gas is used to make party balloons float?
+A: Helium.
+
+479.
+Q: What is the writing material in a pencil made of?
+A: Graphite.
+
+480.
+Q: What is paper mainly made from?
+A: Wood pulp.
+
+481.
+Q: What is glass mainly made from?
+A: Sand.
+
+482.
+Q: What do we call a person who flies an aeroplane?
+A: A pilot.
+
+483.
+Q: What do we call a doctor who treats teeth?
+A: A dentist.
+
+484.
+Q: What do we call a doctor who treats animals?
+A: A veterinarian.
+
+485.
+Q: What does a red traffic light mean?
+A: Stop.
+
+486.
+Q: What does a green traffic light mean?
+A: Go.
+
+487.
+Q: What does a yellow traffic light mean?
+A: Get ready to stop.
+
+488.
+Q: What is the colour of the sky on a clear day?
+A: Blue.
+
+489.
+Q: Which direction is opposite to north?
+A: South.
+
+490.
+Q: In which direction does the Sun rise?
+A: East.
+
+491.
+Q: In which direction does the Sun set?
+A: West.
+
+492.
+Q: Which yellow fruit is long and curved?
+A: The banana.
+
+493.
+Q: Which vegetable often makes people cry when it is cut?
+A: The onion.
+
+494.
+Q: Which animal gives us wool?
+A: The sheep.
+
+495.
+Q: Which bird is a symbol of peace?
+A: The dove.
+
+496.
+Q: Which organ do we use to see?
+A: The eyes.
+
+497.
+Q: Which organs do we use to hear?
+A: The ears.
+
+498.
+Q: What do bees collect from flowers to make honey?
+A: Nectar.
+
+499.
+Q: Which metal is commonly used to make electric wires?
+A: Copper.
+
+500.
+Q: Which metal is attracted by a magnet?
+A: Iron.
+
+==================================================
+END OF FILE
+==================================================
